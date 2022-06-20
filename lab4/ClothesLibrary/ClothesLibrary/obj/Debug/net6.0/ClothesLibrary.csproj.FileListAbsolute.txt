@@ -1,0 +1,12 @@
+C:\OOP\lab4\ClothesLibrary\ClothesLibrary\bin\Debug\net6.0\ClothesLibrary.deps.json
+C:\OOP\lab4\ClothesLibrary\ClothesLibrary\bin\Debug\net6.0\ClothesLibrary.dll
+C:\OOP\lab4\ClothesLibrary\ClothesLibrary\bin\Debug\net6.0\ClothesLibrary.pdb
+C:\OOP\lab4\ClothesLibrary\ClothesLibrary\obj\Debug\net6.0\ClothesLibrary.csproj.AssemblyReference.cache
+C:\OOP\lab4\ClothesLibrary\ClothesLibrary\obj\Debug\net6.0\ClothesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\lab4\ClothesLibrary\ClothesLibrary\obj\Debug\net6.0\ClothesLibrary.AssemblyInfoInputs.cache
+C:\OOP\lab4\ClothesLibrary\ClothesLibrary\obj\Debug\net6.0\ClothesLibrary.AssemblyInfo.cs
+C:\OOP\lab4\ClothesLibrary\ClothesLibrary\obj\Debug\net6.0\ClothesLibrary.csproj.CoreCompileInputs.cache
+C:\OOP\lab4\ClothesLibrary\ClothesLibrary\obj\Debug\net6.0\ClothesLibrary.dll
+C:\OOP\lab4\ClothesLibrary\ClothesLibrary\obj\Debug\net6.0\refint\ClothesLibrary.dll
+C:\OOP\lab4\ClothesLibrary\ClothesLibrary\obj\Debug\net6.0\ClothesLibrary.pdb
+C:\OOP\lab4\ClothesLibrary\ClothesLibrary\obj\Debug\net6.0\ref\ClothesLibrary.dll
